@@ -1,0 +1,25 @@
+.app-wrapper .logo {
+    width: 200px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background: #6a6a6a;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-family: cursive;
+}
+.app-wrapper .search {
+    padding-left: 100px;
+    padding-right: 10px;
+    width: 50%;
+}
+
+.app-wrapper .elements-end{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1;
+}
